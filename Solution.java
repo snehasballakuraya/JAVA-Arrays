@@ -1,3 +1,4 @@
+//Difference Between next and prev prime number
 package org.jsp.Arrays;
 
 public class Solution {
@@ -42,3 +43,4 @@ public class Solution {
 	}
 
 }
+
