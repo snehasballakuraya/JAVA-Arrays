@@ -1,4 +1,4 @@
-//To print leap years
+
 package org.jsp.Arrays;
 
 public class Leap {
@@ -22,3 +22,4 @@ public class Leap {
 			return false;
 	}
 }
+
